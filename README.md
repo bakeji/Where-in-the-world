@@ -1,7 +1,7 @@
 
 # Where In The World
 
-The World Countries Explorer App is a web application that allows users to explore information about countries around the world. The app provides details such as population, region, capital, languages, currencies, and more for each country. Users can toggle between light and dark modes for their preferred visual experience.
+The Where In the World App is a web application that allows users to explore information about countries around the world. The app provides details such as population, region, capital, languages, currencies, and more for each country. Users can toggle between light and dark modes for their preferred visual experience.This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca). 
 
 ## Table of Contents
 
@@ -9,6 +9,7 @@ The World Countries Explorer App is a web application that allows users to explo
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Links](#links)
 
 ## Features
 
@@ -44,3 +45,6 @@ The app should now be running on `http://localhost:3000`.
 - Use the filter dropdown to filter countries by region.
 - Click on a country to view more detailed information on a separate page.
 - Toggle between light and dark modes using the toggle button.
+
+## links
+-live site url:https://where-in-the-wrld.netlify.app/
