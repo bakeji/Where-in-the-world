@@ -3,7 +3,7 @@ export default function Search(props){
     return(
         <div className="search">
             <button>
-            <img src="./public/search.png" alt="search-btn" />
+            <img src="/search.png" alt="search-btn" />
             </button>
             
             <input type="text"
