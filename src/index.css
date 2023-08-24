@@ -23,6 +23,7 @@ body{
   padding: 10px;
   font-size: 14px;
   background-color: #ffffff;
+  box-shadow: 0px 12px 19px 0px rgba(0, 0, 0, 0.15);
   margin-bottom: 40px;
 }
   .dark,
@@ -72,6 +73,7 @@ height: 18px;
   width: 280px;
   height: 40px;
   display: flex;
+  box-shadow: 0px 12px 19px 0px rgba(0, 0, 0, 0.15);
   gap: 12px;
   align-items: center;
   background-color: #ffffff;
@@ -108,6 +110,7 @@ select{
   padding: 8px;
   text-align: center;
   background-color: #ffffff;
+  box-shadow: 0px 12px 19px 0px rgba(0, 0, 0, 0.15);
   color: #111517;
   font-weight: 300;
   border: #ffffff;
@@ -139,6 +142,7 @@ option{
    display: flex;
   flex-direction: column;
   gap: 18px;
+  box-shadow: 0px 12px 19px 0px rgba(0, 0, 0, 0.15);
   height: 334px
 }
 
@@ -185,6 +189,7 @@ span{
   display: flex;
   align-items: center;
   justify-content: center;
+  box-shadow: 0px 12px 19px 0px rgba(0, 0, 0, 0.15);
   gap: 12px;
   background-color: #ffffff;
   border: #fafafa;
@@ -201,6 +206,7 @@ span{
   align-items: center;
   justify-content: center;
 }
+
 .flags img{
   width: 420px;
   height: 300px
